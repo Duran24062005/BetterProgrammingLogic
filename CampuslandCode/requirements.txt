@@ -1,0 +1,21 @@
+# 1. Introducción
+## 1.1 Propósito
+Este documento define los requerimientos del sistema de gestión de pedidos en línea para la empresa "PedidosYA".
+
+# 2. Requerimientos Funcionales
+## 2.1 Autenticación de Usuarios
+- RF1: Los usuarios podrán registrarse con su correo electrónico y contraseña.
+- RF2: El sistema enviará un correo de confirmación tras el registro.
+
+# 3. Requerimientos No Funcionales
+## 3.1 Rendimiento
+- RNF1: La respuesta del servidor no deberá superar los 2 segundos en el 95% de los casos.
+
+# 4. Casos de Uso
+## CU1: Registro de Usuario
+- Actor: Cliente
+- Descripción: El usuario ingresa su correo y contraseña y se registra en el sistema.
+
+# 5. Gestión de Cambios
+## 5.1 Procedimiento para Modificación de Requerimientos
+- Toda solicitud de cambio debe ser aprobada por el equipo de desarrollo y validada con los stakeholders.

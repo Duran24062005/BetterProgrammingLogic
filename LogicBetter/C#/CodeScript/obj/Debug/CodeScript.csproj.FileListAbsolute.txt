@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\bin\Debug\CodeScript.exe.config
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\bin\Debug\CodeScript.exe
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\bin\Debug\CodeScript.pdb
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\obj\Debug\CodeScript.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\obj\Debug\CodeScript.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\obj\Debug\CodeScript.exe
+C:\Users\HP\OneDrive\Escritorio\scripts\C#\CodeScript\obj\Debug\CodeScript.pdb

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\bin\Debug\net8.0\ScriptCode.exe
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\bin\Debug\net8.0\ScriptCode.deps.json
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\bin\Debug\net8.0\ScriptCode.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\bin\Debug\net8.0\ScriptCode.dll
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\bin\Debug\net8.0\ScriptCode.pdb
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.dll
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\refint\ScriptCode.dll
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.pdb
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ScriptCode.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\scripts\c#\ScriptCode\obj\Debug\net8.0\ref\ScriptCode.dll
